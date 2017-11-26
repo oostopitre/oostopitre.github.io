@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://oostopitre.github.io/blog/first_post/</loc>
+    <lastmod>2017-11-25T20:45:13-08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://oostopitre.github.io/about/</loc>
     <lastmod>2017-11-25T20:28:49-08:00</lastmod>
   </url>
@@ -14,6 +19,7 @@
   
   <url>
     <loc>https://oostopitre.github.io/</loc>
+    <lastmod>2017-11-25T20:45:13-08:00</lastmod>
     <priority>0</priority>
   </url>
   
