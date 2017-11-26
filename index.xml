@@ -17,7 +17,8 @@
       <pubDate>Sat, 25 Nov 2017 20:45:13 -0800</pubDate>
       
       <guid>https://oostopitre.github.io/blog/first_post/</guid>
-      <description>This is the first post.</description>
+      <description>This is the first post.
+from glob impot glob print(&#39;This is the first post...&#39;)  </description>
     </item>
     
   </channel>
