@@ -18,7 +18,7 @@
       
       <guid>https://oostopitre.github.io/blog/first_post/</guid>
       <description>This is the first post.
-from glob impot glob print(&#39;This is the first post...&#39;)  </description>
+from glob impot glob print(&#39;This is the first post...&#39;)  Adding a new line here for test.</description>
     </item>
     
   </channel>
